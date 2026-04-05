@@ -1,0 +1,13 @@
+{
+  "name": "projectfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Use: cd arusuvai && npm start (frontend port 3000) or cd Server && npm start (backend port 9090)'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
